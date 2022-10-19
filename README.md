@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedKAa
 - 👀 I’m interested in Web application development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently playing with threejs
 - 📫 Contact me via: nth8518@gmail.com
 
 <!---
